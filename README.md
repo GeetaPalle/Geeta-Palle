@@ -1,7 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/main/assets/banner.gif" alt="Profile Banner" width="100%" />
-</p>
 
 # 👋 Hi, I'm Geeta Palle
 
