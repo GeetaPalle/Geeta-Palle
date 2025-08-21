@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2oxcW5iM2ZlcnFkbXd1OHl2OG1jZjMwZ2g3bnk5Y3VsYXAxMHY5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" 
+       alt="Woman Presenting a Data Dashboard GIF" 
+       width="600"/>
+</p>
+
 
 # 👋 Hi, I'm Geeta Palle
 
