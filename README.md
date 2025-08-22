@@ -14,6 +14,6 @@
 <a href="mailto:dasarigeeta10@email.com" target="blank">
   <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="30" width="40" />
 </a>
-  
-<a href="https://linkedin.com/in/geetadasari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geetadasari" height="30" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/geetadasari" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
