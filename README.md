@@ -9,7 +9,7 @@
   
 - 🚀 Currently seeking **Data Analyst opportunities** to apply my skills in real-world business challenges.
   
-
+- ✨ “Turning data into insights, and insights into impact.” ✨
   
 </p>
 
@@ -44,4 +44,4 @@
 </p>
 
 
-✨ *“Turning data into insights, and insights into impact.”* ✨
+
