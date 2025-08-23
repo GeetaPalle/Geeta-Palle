@@ -32,7 +32,7 @@
 <a href="mailto:dasarigeeta10@email.com" target="blank">
   <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="30" width="40" />
 </a>
-  <a href="https://linkedin.com/in/geetadasari" target="blank">
+  <a href="https://linkedin.com/in/geetapalle" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
 
